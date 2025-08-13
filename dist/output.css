@@ -186,11 +186,12 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: inherit;
+  font-family: 'GlacialIndifference';
   /* 1 */
+  src: url('dist/assets/glacial-indifference/WEB/GlacialIndifference-Regular.woff2') format('woff2');
   font-size: 100%;
   /* 1 */
-  font-weight: inherit;
+  font-weight: 400;
   /* 1 */
   line-height: inherit;
   /* 1 */
